@@ -18,7 +18,7 @@ setup(
     packages=['pyip_reflector'],
     platforms='any',
     install_requires=[
-        "Flask >= 0.10",
+        "Flask",
     ],
     entry_points={
     },
